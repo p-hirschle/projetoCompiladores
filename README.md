@@ -9,8 +9,9 @@ ANTLR e Python.
 
 ## COMO UTILIZAR
 **1.** Clone o repositório, e obtenha as depêndencias do arquivo 'requirements.txt' instaladas para evitar quaisquer erros.       
-**1.1** Isso pode ser feito com a execução do comando $pip freeze -r requirements.txt  .      
-**2.** Para utilizar a DSL, basta escrever o código em um arquivo com o import de 'dslModel' e rodar normalmente o run validando as classes que você deseja criar, porém já    existe um exemplo estabelecido no repositório, sendo suficiente apenas executar o arquivo dslModel.py caso preferível.      
+       *Isso pode ser feito com a execução do comando $pip freeze -r requirements.txt  .*      
+**2.** Para utilizar a DSL, basta escrever o código em um arquivo com o import de 'dslModel' e rodar normalmente o run validando as classes que você deseja criar, porém já    existe um exemplo estabelecido no repositório, sendo suficiente apenas executar o arquivo dslModel.py caso preferível. 
+**3** Execute o arquivo desejado e valide a criação de sua classe Model.
 
 ## GRAMÁTICA
 A gramática estabelecida está no arquivo 'gramatica.g4', seguindo as orientações dadas em sala de aula:        
