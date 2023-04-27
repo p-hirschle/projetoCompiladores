@@ -12,7 +12,7 @@ Clone o repositório, e obtenha as depêndencias do arquivo 'requirements.txt' i
 Isso pode ser feito com a execução do comando $pip freeze -r requirements.txt  .      
 Para utilizar a DSL, basta escrever o código em um arquivo com o import de 'dslModel' e rodar normalmente o run validando as classes que você deseja criar, porém já existe um exemplo estabelecido no repositório, sendo suficiente apenas executar o arquivo dslModel.py caso preferível.      
 
-###Gramática
+### Gramática
 A gramática estabelecida está no arquivo 'gramatica.g4', seguindo as orientações dadas em sala de aula:        
 
 --------------------------------------------------------------------------------------------------      
