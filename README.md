@@ -14,9 +14,9 @@ Uma classe do tipo Model possui campos específicos que, caso não sejam preench
 ANTLR4 | Python3 | Java
 
 ## COMO UTILIZAR
-#### **1-**  Clone o repositório, e obtenha as depêndencias do arquivo 'requirements.txt' instaladas para evitar quaisquer erros.       
+#### **1-**  Clone o repositório, e obtenha as dependências do arquivo 'requirements.txt' instaladas para evitar quaisquer erros.       
        Isso pode ser feito com a execução do comando $pip install -r requirements.txt       
-#### **2-**  Para utilizar a DSL, basta escrever o código em um arquivo com o import de 'dslModel' e rodar normalmente o run validando as classes que você deseja                    criar, porém já    existe um exemplo estabelecido no repositório, sendo suficiente apenas executar o arquivo dslModel.py caso preferível.          
+#### **2-**  Para utilizar a DSL, basta escrever o código em um arquivo com o import de 'dslModel' e rodar normalmente o run validando as classes que você deseja                    criar, porém já existe um exemplo estabelecido no repositório, sendo suficiente apenas executar o arquivo dslModel.py, caso preferível.          
         $python dslModel.py run   
 #### **3-**  Execute o arquivo desejado e valide a criação de sua classe Model.
 
