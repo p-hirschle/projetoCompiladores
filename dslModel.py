@@ -1,7 +1,7 @@
 
 import ast, re
 from django.db import models
-import DjangoModelLexer
+#import DjangoModelLexer
 
 #importando a ast (abstract syntax tree) como ferramenta de análise de código, utilizando os conceitos de nó
 #importando o models do django pra validar a criação da classe Models (objetivo da dsl)
