@@ -1,13 +1,13 @@
 # Projeto de Compiladores, para o período de 2022.2
 
-##Descrição
+## Descrição
 O projeto se trata de uma linguagem de domínio específico (DSL) responsável por validar a criação de classes do tipo Model no Django.
 Uma classe do tipo Model possui campos específicos que, caso não sejam preenchidos de forma correta, impossibilitam a criação daquela classe.
 
-##Tecnologias
+## Tecnologias
 ANTLR e Python.
 
-##Como utilizar
+## Como utilizar
 Clone o repositório, e obtenha as depêndencias do arquivo 'requirements.txt' instaladas para evitar quaisquer erros.
 Isso pode ser feito com a execução do comando $pip freeze -r requirements.txt  .
 Para utilizar a DSL, basta escrever o código em um arquivo com o import de 'dslModel' e rodar normalmente o run validando as classes que você deseja criar, porém já existe um exemplo estabelecido no repositório, sendo suficiente apenas executar o arquivo dslModel.py caso preferível.
@@ -32,7 +32,7 @@ tipo: 'models.CharField'  | 'models.BooleanField' | 'models.IntegerField' | 'mod
 param: LPAR NUM RPAR | LPAR STRING RPAR | LPAR 'max_length=' NUM VIRG 'verbose_name=' STRING RPAR;
 --------------------------------------------------------------------------------------------------
 
-###Grupo
+### Grupo
 Carlos Eduardo Cabral
 Lucas Tenório Ferraz
 Pedro Lucas Melo Hirschle
