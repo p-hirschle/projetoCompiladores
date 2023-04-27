@@ -2,7 +2,10 @@
 
 ## DESCRIÇÃO
 O projeto se trata de uma linguagem de domínio específico (DSL) responsável por validar a criação de classes do tipo Model no Django.                              
-Uma classe do tipo Model possui campos específicos que, caso não sejam preenchidos de forma correta, impossibilitam a criação daquela classe.                       
+Uma classe do tipo Model possui campos específicos que, caso não sejam preenchidos de forma correta, impossibilitam a criação daquela classe.   
+
+![Exemplo de criação dos Models em Django](modelExemplo2.jpeg)
+
 
 ## TECNOLOGIAS
 ANTLR e Python.
