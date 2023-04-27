@@ -11,7 +11,7 @@ Uma classe do tipo Model possui campos específicos que, caso não sejam preench
 
 
 ## TECNOLOGIAS
-ANTLR4; Python3; Java
+ANTLR4 | Python3 | Java
 
 ## COMO UTILIZAR
 #### **1-**  Clone o repositório, e obtenha as depêndencias do arquivo 'requirements.txt' instaladas para evitar quaisquer erros.       
